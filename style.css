@@ -75,7 +75,7 @@ body {
     transform: scale(0);
     animation: scaleCricle 2s 16s forwards ease-in-out;
 }
-#btn__letter{
+#btn__lettere{
     position: relative;
     margin-top: 30px;
     background-color: var(--color-text-pink);
@@ -162,3 +162,4 @@ body {
 }
 
 /* باقي الكود هو نفسه اللي فوق، مع كل أماكن اللون الوردي متغيرة للـ #C21968 */
+
